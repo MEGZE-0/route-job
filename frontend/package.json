@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "http://MEGZE-0.github.io/customerchart-react",
+  "homepage": "http://MEGZE-0.github.io/route-job",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --repo=https://github.com/MEGZE-0/customerchart-react",
+    "deploy": "gh-pages -d build --repo=https://github.com/MEGZE-0/route-job",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
